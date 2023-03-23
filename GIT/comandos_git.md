@@ -11,3 +11,6 @@ git status: estado del directorio, nuestra area de preparacion y la diferencia e
 
 git add: agregar un archivo al staging area
 `$git add <. | filename>`
+
+git commit: crear un nuevo commit
+`$git commit -m <message>`
