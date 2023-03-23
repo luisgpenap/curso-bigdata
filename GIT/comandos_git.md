@@ -35,7 +35,7 @@ para crear una nueva rama y cambiar de rama
 para cambiar de rama o "viajar en el tiempo" entrando a logs pasados
 `git checkout "<branch_name>"`
 
-
+SOLO EN DEV
 
 
 
