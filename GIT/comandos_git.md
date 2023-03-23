@@ -37,7 +37,16 @@ para cambiar de rama o "viajar en el tiempo" entrando a logs pasados
 
 SOLO EN DEV
 
+<<<<<<< HEAD
 
 
 para juntar 2 branches
 `git merge "<branch_name>"`
+=======
+para juntar ramas
+`$git merge "<branch_name>"`
+
+### REPOSITORIOS REMOTOS (GITHUB)
+`$git clone <https | ssh>`
+
+>>>>>>> 3f66391 (Repositorios Remotos)
