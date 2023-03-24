@@ -50,3 +50,5 @@ para juntar ramas
 ### REPOSITORIOS REMOTOS (GITHUB)
 `git clone <https | ssh>`
 
+`git pull origin main`
+`git push origin main`
