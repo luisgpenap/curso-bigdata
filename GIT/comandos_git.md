@@ -14,23 +14,17 @@ git add: agregar un archivo al staging area
 
 git commit: crear un nuevo commit
 `git commit -m <message>`
-<<<<<<< HEAD
 
 git log: ver historial de los commits
 `git log`
-=======
->>>>>>> b9c6042 (Funcion git cambiar rama)
 
 ### BRANCHES
 
 para cambiar el nombre de la rama por defecto
 `git config --global init.defaultBranch "<branch_name>"`
-<<<<<<< HEAD
-=======
 
 para cambiar el nombre de la rama actual
 `git branch -m "<branch name>"`
->>>>>>> b9c6042 (Funcion git cambiar rama)
 
 para crear nueva rama
 `git branch "<branch_name>"`
@@ -46,16 +40,13 @@ para cambiar de rama o "viajar en el tiempo" entrando a logs pasados
 
 SOLO EN DEV
 
-<<<<<<< HEAD
 
 
 para juntar 2 branches
 `git merge "<branch_name>"`
-=======
 para juntar ramas
 `git merge "<branch_name>"`
 
 ### REPOSITORIOS REMOTOS (GITHUB)
 `git clone <https | ssh>`
 
->>>>>>> 3f66391 (Repositorios Remotos)
