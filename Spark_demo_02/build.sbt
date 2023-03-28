@@ -4,8 +4,8 @@ ThisBuild / scalaVersion := "2.13.10"
 name := "SparkDemo"
 
 libraryDependencies ++= {
-  val sparkV = "3.3.0"
-  val hadoopV = "3.3.0"
+  val sparkV = "3.3.2"
+  val hadoopV = "3.3.2"
 
   Seq(
     "org.apache.spark" %% "spark-core" % sparkV,
